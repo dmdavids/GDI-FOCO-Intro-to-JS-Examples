@@ -5,7 +5,7 @@ document.body.innerHTML += '<p><a href="#" onclick="favoriteThings()"> What are 
 document.body.innerHTML += '<p><a href="#" onclick="myFriends()"> Who are my friends?</a></p>';
 
 function calculate() {
-    var age = 51;
+    var age = 29;
     var max_age = 101;
     var avg = 1; // bottle of soda
     var amount = (max_age - age) * 365 * avg;
